@@ -1,0 +1,35 @@
+
+#whatwedojumbotron {
+  background-image: url("img/whatwedobanner.jpg");
+  background-size: cover;
+}
+
+#aboutusjumbotron {
+  background-image: url("img/aboutusbanner.jpg");
+  background-size: cover;
+}
+
+#contactjumbotron {
+  background-image: url("img/whatwedobanner.jpg");
+  background-size: cover;
+}
+
+#trendingstylejumbotron {
+  background-image: url("img/whatwedobanner.jpg");
+  background-size: cover;
+}
+
+#collectionsjumbotron {
+  background-image: url("img/whatwedobanner.jpg");
+  background-size: cover;
+}
+
+.carousel-caption {
+  vertical-align: middle;
+  padding-bottom: 50px;
+}
+
+.carousel-indicators {
+  vertical-align: middle;
+  padding-bottom: 50px;
+}
